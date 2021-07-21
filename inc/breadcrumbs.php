@@ -17,11 +17,11 @@
  * @package   BreadcrumbTrail
  * @version   1.1.0
  * @author    Justin Tadlock <justin@justintadlock.com>
- * @copyright Copyright (c) 2008 - 2017, Justin Tadlock
+ * @copyright Copyright (c) 2008 - 2017, Justin Tadlockg
  * @link      https://themehybrid.com/plugins/breadcrumb-trail
  * @license   http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  */
-
+/*Hii justin, this breadcrumb giving a error -  Invalid Url field "id" Please Do required Changes and solve it it will really helpfull for me , i'm not able to do required changes.
 /**
  * Shows a breadcrumb for all types of pages.  This is a wrapper function for the Breadcrumb_Trail class,
  * which should be used in theme templates.
